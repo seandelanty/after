@@ -12,7 +12,7 @@ background-size: cover;
 }
 
 .flyer {
-  width: 30%;
+  width: 50%;
   position: relative;
   margin-bottom: 100px;
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.50), 10px 10px 20px rgba(0, 0, 0, 0.40);
